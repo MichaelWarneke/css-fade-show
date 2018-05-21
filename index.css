@@ -5,7 +5,7 @@
 	max-width: 800px;
 }
 
-/* First element to be in block mode for responsivness */
+/* First element to be in block mode for responsiveness */
 #slide-first-element {
 	display: block;
 	width: 100%;
